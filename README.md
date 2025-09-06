@@ -1,3 +1,1 @@
-{
-  "version": "1.1.4"
-}
+#Fares Pomodoro App version control
